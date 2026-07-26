@@ -123,7 +123,7 @@ Navigation app that captures a live camera photo, sends it to the Gemini API for
 <img src="https://raw.githubusercontent.com/athishio/github-stats/generated/overview.svg" width="100%" />
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=athishio&theme=nord&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=athishio&hide_border=true" width="100%" />
 </td>
 </tr>
 </table>
