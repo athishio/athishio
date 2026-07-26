@@ -1,67 +1,129 @@
-### 👋 Hey, I'm Athish
-
-AIML student who codes full-stack apps and ships AI-powered products — not just tutorials, actual working software. Currently 2nd year, but building like I'm already employed.
-
-I like taking an idea from "what if we built..." to a deployed, working thing. Full-stack is my foundation, AI/ML is where I'm specializing, and I'm actively looking for remote roles and freelance work where I can do both.
-
----
-
-### 🛠️ What I actually work with
-
-**Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Backend:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-**AI/ML:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-**Database:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Other:** ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-### 🚀 Projects I'm proud of
-
-**[auravault-ai](https://auravault-ai.vercel.app)**
-A personal finance assistant that leverages the Gemini API to automatically categorize raw transactions, backed by an AWS database and secured through encrypted environment variables.
-
-**[wayfinder](https://wayfinder-gamma.vercel.app)**
-A navigation app that captures a photo through the camera and sends it to the Gemini API for scene analysis, using the Google Maps API for routing — currently building out the analysis pipeline.
-
----
-
-### 🔭 Currently working on
-
-Deepening my knowledge in Data Structures and Algorithms
-
----
-
-<br>
-
 <div align="center">
-  
-### 📊 My GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=athishio&theme=radical)](https://github.com/athishio)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Athish;AIML+Student+%7C+Full-Stack+Developer;I+Ship+Working+Products%2C+Not+Just+Demos" alt="Typing SVG" />
 
 </div>
 
 <br>
 
----
+## About
 
-### 💼 Open to
+I'm an AIML student who treats side projects like production software — deployed, documented, and actually usable. Full-stack is my foundation; AI/ML is where I specialize. Right now I'm 2nd year, but I build like I'm already on a team that ships.
 
-Remote/on-site roles and freelance work in full-stack development and applied AI/ML — internships, contract work, or collaborative projects. If you're building something and need someone who can handle both the product and the model, let's talk.
+My process is simple: take an idea from *"what if we built..."* to a live URL someone can click. I'm currently open to remote roles, internships, and freelance work where I can own both the product and the model behind it.
 
----
+<br>
 
-### 📬 Reach me
+## Tech Stack
 
-- Email: athishm2007@gmail.com
-- LinkedIn: https://www.linkedin.com/in/athishio
-- Portfolio: https://athishio.web.app
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 
-*Always down to talk about a project, trade feedback on code, or just nerd out about AI. Don't be shy.*
+**Backend**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
+
+**AI / ML**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+
+</td>
+<td valign="top" width="50%">
+
+**Database**
+<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+
+**Infra & Tooling**
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 [auravault-ai](https://auravault-ai.vercel.app)
+
+Personal finance assistant that auto-categorizes raw transactions using the Gemini API. Backed by an AWS database with secrets managed through encrypted environment variables.
+
+`Gemini API` `AWS` `TypeScript`
+
+</td>
+<td width="50%">
+
+### 🧭 [wayfinder](https://wayfinder-gamma.vercel.app)
+
+Navigation app that captures a live camera photo, sends it to the Gemini API for scene analysis, and routes you there using the Google Maps API. Analysis pipeline still being extended.
+
+`Gemini API` `Google Maps API` `TypeScript`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Currently Focused On
+
+- Deepening Data Structures & Algorithms
+- Sharpening system design fundamentals for full-stack + AI products
+
+<br>
+
+<div align="center">
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=athishio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=athishio&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athishio&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+<br>
+
+## Open To
+
+Remote or on-site roles, internships, and freelance work spanning full-stack development and applied AI/ML. If you need someone who can build the product **and** the model behind it, let's talk.
+
+<br>
+
+## Get In Touch
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athishm2007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athishio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://athishio.web.app)
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>Always up for talking through a project, trading code feedback, or arguing about the best way to structure a RAG pipeline.</sub>
+</div>
