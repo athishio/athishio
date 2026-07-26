@@ -42,7 +42,7 @@ Deepening my knowledge in Data Structures and Algorithms
   
 ### 📊 My GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=athishdresu&theme=radical)](https://github.com/athishdresu)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=athishio&theme=radical)](https://github.com/athishio)
 
 </div>
 
