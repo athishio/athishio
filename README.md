@@ -146,7 +146,8 @@ Navigation app that captures a live camera photo, sends it to the Gemini API for
   2. It regenerates the SVG below on a schedule from your contribution graph
   3. Once it runs once, this image renders automatically
 -->
-<img src="https://raw.githubusercontent.com/athishio/athishio/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" />
+<img src="https://raw.githubusercontent.com/athishio/athishio/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" #gh-dark-mode-only />
+<img src="https://raw.githubusercontent.com/athishio/athishio/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%" #gh-light-mode-only />
 
 </div>
 
