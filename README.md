@@ -2,17 +2,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Athish;AIML+Student+%7C+Full-Stack+Developer;I+Ship+Working+Products%2C+Not+Just+Demos" alt="Typing SVG" />
 
-<br>
-
-<img src="https://raw.githubusercontent.com/athishio/athishio/main/dragon.gif" width="100%" alt="dragon" />
-
 </div>
 
 <br>
 
 ## About
 
-I'm an AIML student who treats side projects like production software — deployed, documented, and actually usable. Full-stack is my foundation; AI/ML is where I specialize. Right now I'm 2nd year, but I build like I'm already on a team that ships.
+I'm an AIML student who treats side projects like production software — deployed, documented, and actually usable. Full-stack is my foundation; AI/ML is where I specialize. Right now I'm in my 2nd year, but I build like I'm already on a team that ships.
 
 My process is simple: take an idea from *"what if we built..."* to a live URL someone can click. I'm currently open to remote roles, internships, and freelance work where I can own both the product and the model behind it.
 
@@ -22,7 +18,7 @@ My process is simple: take an idea from *"what if we built..."* to a live URL so
 
 ```
 01  Scope it      →  Define the smallest version that's actually useful
-02  Ship it        →  Deploy early, real URL, real users, no "coming soon"
+02  Ship it        →  Deploy early — real URL, real users, no "coming soon"
 03  Instrument it  →  Add the AI layer once the core product actually works
 04  Iterate        →  Fix what breaks, cut what doesn't matter, repeat
 ```
@@ -39,6 +35,7 @@ My process is simple: take an idea from *"what if we built..."* to a live URL so
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 
 **Backend**
 <br>
@@ -47,8 +44,9 @@ My process is simple: take an idea from *"what if we built..."* to a live URL so
 
 **AI / ML**
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 
 </td>
 <td valign="top" width="50%">
@@ -63,10 +61,7 @@ My process is simple: take an idea from *"what if we built..."* to a live URL so
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 
 </td>
 </tr>
@@ -78,7 +73,7 @@ My process is simple: take an idea from *"what if we built..."* to a live URL so
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔐 [auravault-ai](https://auravault-ai.vercel.app)
 
@@ -87,7 +82,7 @@ Personal finance assistant that auto-categorizes raw transactions using the Gemi
 `Gemini API` `AWS` `TypeScript`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧭 [wayfinder](https://wayfinder-gamma.vercel.app)
 
@@ -116,6 +111,24 @@ Navigation app that captures a live camera photo, sends it to the Gemini API for
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=athishio&theme=nord&hide_border=true" height="165" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athishio&layout=compact&theme=nord&hide_border=true" height="165" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!--
+  Contribution "snake" animation — replaces the dragon gif with something
+  that's actually generated from your own commit history instead of a
+  static decorative asset. Set up via the snk GitHub Action:
+  https://github.com/Platane/snk
+
+  1. Add a workflow file at .github/workflows/snake.yml in this repo
+  2. It regenerates the SVG below on a schedule from your contribution graph
+  3. Once it runs once, this image renders automatically
+-->
+<img src="https://raw.githubusercontent.com/athishio/athishio/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" />
 
 </div>
 
