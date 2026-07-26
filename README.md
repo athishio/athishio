@@ -14,6 +14,17 @@ My process is simple: take an idea from *"what if we built..."* to a live URL so
 
 <br>
 
+## How I Build
+
+```
+01  Scope it      →  Define the smallest version that's actually useful
+02  Ship it        →  Deploy early, real URL, real users, no "coming soon"
+03  Instrument it  →  Add the AI layer once the core product actually works
+04  Iterate        →  Fix what breaks, cut what doesn't matter, repeat
+```
+
+<br>
+
 ## Tech Stack
 
 <table>
@@ -95,12 +106,20 @@ Navigation app that captures a live camera photo, sends it to the Gemini API for
 
 <div align="center">
 
-## GitHub Stats
+## Trophy Shelf
 
-<img src="https://github-readme-stats.vercel.app/api?username=athishio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=athishio&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-profile-trophy.vercel.app/?username=athishio&theme=nord&no-frame=true&column=4&margin-w=8&margin-h=8&row=1" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athishio&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<br>
+
+## Activity
+
+<img src="https://raw.githubusercontent.com/athishio/athishio/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake animation" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=athishio&show_icons=true&theme=nord&hide_border=true&hide_rank=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athishio&layout=compact&theme=nord&hide_border=true" height="165" />
 
 </div>
 
