@@ -25,7 +25,7 @@ I like taking an idea from "what if we built..." to a deployed, working thing. F
 **[auravault-ai](https://auravault-ai.vercel.app)**
 A personal finance assistant that leverages the Gemini API to automatically categorize raw transactions, backed by an AWS database and secured through encrypted environment variables.
 
-**[wayfinder](https://wayfinder-athish-io.vercel.app)**
+**[wayfinder](https://wayfinder-gamma.vercel.app)**
 A navigation app that captures a photo through the camera and sends it to the Gemini API for scene analysis, using the Google Maps API for routing — currently building out the analysis pipeline.
 
 ---
