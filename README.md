@@ -106,15 +106,9 @@ Navigation app that captures a live camera photo, sends it to the Gemini API for
 
 <div align="center">
 
-## Trophy Shelf
-
-<img src="https://github-profile-trophy.vercel.app/?username=athishio&theme=nord&no-frame=true&column=4&margin-w=8&margin-h=8&row=1" />
-
-<br>
-
 ## Activity
 
-<img src="https://raw.githubusercontent.com/athishio/athishio/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=athishio&theme=nord&hide_border=true&area=true" width="100%" alt="contribution activity graph" />
 
 <br>
 
