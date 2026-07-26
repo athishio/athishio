@@ -107,10 +107,18 @@ Navigation app that captures a live camera photo, sends it to the Gemini API for
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=athishio&show_icons=true&theme=nord&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=athishio&theme=nord&hide_border=true" height="165" />
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=athishio&show_icons=true&theme=nord&hide_border=true" width="100%" />
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=athishio&theme=nord&hide_border=true" width="100%" />
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athishio&layout=compact&theme=nord&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athishio&layout=compact&theme=nord&hide_border=true" width="45%" />
 
 </div>
 
