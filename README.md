@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/athishio/athishio/main/dragon.png" width="500" alt="dragon" />
+<img src="https://raw.githubusercontent.com/athishio/athishio/main/dragon.gif" width="500" alt="dragon" />
 
 </div>
 
