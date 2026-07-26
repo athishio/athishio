@@ -2,6 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Athish;AIML+Student+%7C+Full-Stack+Developer;I+Ship+Working+Products%2C+Not+Just+Demos" alt="Typing SVG" />
 
+<br>
+
+<img src="https://raw.githubusercontent.com/athishio/athishio/main/dragon.png" width="500" alt="dragon" />
+
 </div>
 
 <br>
@@ -106,13 +110,11 @@ Navigation app that captures a live camera photo, sends it to the Gemini API for
 
 <div align="center">
 
-## Activity
+## GitHub Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=athishio&theme=nord&hide_border=true&area=true" width="100%" alt="contribution activity graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=athishio&show_icons=true&theme=nord&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=athishio&theme=nord&hide_border=true" height="165" />
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=athishio&show_icons=true&theme=nord&hide_border=true&hide_rank=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athishio&layout=compact&theme=nord&hide_border=true" height="165" />
 
 </div>
