@@ -39,6 +39,7 @@ My process is simple: take an idea from *"what if we built..."* to a live URL so
 **Backend**
 <br><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 
 **AI / ML**
