@@ -120,15 +120,27 @@ Navigation app that captures a live camera photo, sends it to the Gemini API for
 <table>
 <tr>
 <td width="50%">
-<img src="https://raw.githubusercontent.com/athishio/github-stats/generated/overview.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athishio/github-stats/generated/overview_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athishio/github-stats/generated/overview.svg">
+  <img src="https://raw.githubusercontent.com/athishio/github-stats/generated/overview.svg" width="100%" />
+</picture>
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=athishio&hide_border=true" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=athishio&hide_border=true&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=athishio&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athishio&hide_border=true" width="100%" />
+</picture>
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/athishio/github-stats/generated/languages.svg" width="45%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athishio/github-stats/generated/languages_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athishio/github-stats/generated/languages.svg">
+  <img src="https://raw.githubusercontent.com/athishio/github-stats/generated/languages.svg" width="45%" />
+</picture>
 
 </div>
 
