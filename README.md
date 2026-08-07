@@ -120,11 +120,7 @@ Navigation app that captures a live camera photo, sends it to the Gemini API for
 <table>
 <tr>
 <td width="50%">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athishio/github-stats/generated/overview_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athishio/github-stats/generated/overview.svg">
-  <img src="https://raw.githubusercontent.com/athishio/github-stats/generated/overview.svg" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/athishio/github-stats/generated/overview.svg" width="100%" />
 </td>
 <td width="50%">
 <picture>
@@ -135,13 +131,7 @@ Navigation app that captures a live camera photo, sends it to the Gemini API for
 </td>
 </tr>
 </table>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athishio/github-stats/generated/languages_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athishio/github-stats/generated/languages.svg">
-  <img src="https://raw.githubusercontent.com/athishio/github-stats/generated/languages.svg" width="45%" />
-</picture>
-
+<img src="https://raw.githubusercontent.com/athishio/github-stats/generated/languages.svg" width="45%" />
 </div>
 
 <br>
