@@ -120,7 +120,8 @@ Navigation app that captures a live camera photo, sends it to the Gemini API for
 <table>
 <tr>
 <td width="50%">
-<img src="https://raw.githubusercontent.com/athishio/github-stats/generated/overview.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/athishio/github-stats/generated/overview.svg#gh-dark-mode-only" width="100%" />
+<img src="https://raw.githubusercontent.com/athishio/github-stats/generated/overview.svg#gh-light-mode-only" width="100%" />
 </td>
 <td width="50%">
 <picture>
@@ -130,8 +131,10 @@ Navigation app that captures a live camera photo, sends it to the Gemini API for
 </picture>
 </td>
 </tr>
+
+<img src="https://raw.githubusercontent.com/athishio/github-stats/generated/languages.svg#gh-dark-mode-only" width="45%" />
+<img src="https://raw.githubusercontent.com/athishio/github-stats/generated/languages.svg#gh-light-mode-only" width="45%" />
 </table>
-<img src="https://raw.githubusercontent.com/athishio/github-stats/generated/languages.svg" width="45%" />
 </div>
 
 <br>
