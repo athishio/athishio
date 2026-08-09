@@ -77,6 +77,7 @@ My process is simple: take an idea from *"what if we built..."* to a live URL so
 
 ### ♻️ [context-gc](https://github.com/athishio/context-gc)
 Deterministic context-compaction library for AI agents. Prunes obsolete and superseded steps from execution traces via graph-based analysis — no extra LLM calls, and every pruned event stays fully recoverable via receipts.
+
 `Python` `Graph Algorithms` `Zero-Dependency`
 
 </td>
