@@ -75,20 +75,18 @@ My process is simple: take an idea from *"what if we built..."* to a live URL so
 <tr>
 <td width="50%" valign="top">
 
+### ♻️ [context-gc](https://github.com/athishio/context-gc)
+Deterministic context-compaction library for AI agents. Prunes obsolete and superseded steps from execution traces via graph-based analysis — no extra LLM calls, and every pruned event stays fully recoverable via receipts.
+`Python` `Graph Algorithms` `Zero-Dependency`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔐 [auravault-ai](https://auravault-ai.vercel.app)
 
 Personal finance assistant that auto-categorizes raw transactions using the Gemini API. Backed by an AWS database with secrets managed through encrypted environment variables.
 
 `Gemini API` `AWS` `TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧭 [wayfinder](https://wayfinder-gamma.vercel.app)
-
-Navigation app that captures a live camera photo, sends it to the Gemini API for scene analysis, and routes you there using the Google Maps API. Analysis pipeline still being extended.
-
-`Gemini API` `Google Maps API` `TypeScript`
 
 </td>
 </tr>
