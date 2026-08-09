@@ -87,6 +87,7 @@ Deterministic context-compaction library for AI agents. Prunes obsolete and supe
 
 Personal finance assistant that auto-categorizes raw transactions using the Gemini API. Backed by an AWS database with secrets managed through encrypted environment variables.
 
+
 `Gemini API` `AWS` `TypeScript`
 
 </td>
