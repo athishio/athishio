@@ -54,7 +54,7 @@ My process is simple: take an idea from *"what if we built..."* to a live URL so
 **Database**
 <br><br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
 
 **Infra & Tooling**
 <br><br>
