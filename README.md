@@ -117,6 +117,7 @@ Personal finance assistant that auto-categorizes raw transactions using the Gemi
   the workflow once. It regenerates automatically every 24h after that.
 -->
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -131,29 +132,27 @@ Personal finance assistant that auto-categorizes raw transactions using the Gemi
 </picture>
 </td>
 </tr>
-
-<img src="https://raw.githubusercontent.com/athishio/github-stats/generated/languages.svg#gh-dark-mode-only" width="45%" />
-<img src="https://raw.githubusercontent.com/athishio/github-stats/generated/languages.svg#gh-light-mode-only" width="45%" />
+<tr>
+<td colspan="2" align="center">
+<img src="https://raw.githubusercontent.com/athishio/github-stats/generated/languages.svg#gh-dark-mode-only" width="60%" />
+<img src="https://raw.githubusercontent.com/athishio/github-stats/generated/languages.svg#gh-light-mode-only" width="60%" />
+</td>
+</tr>
 </table>
 </div>
 
 <br>
 
 <div align="center">
-
 <!--
-  Contribution "snake" animation — replaces the dragon gif with something
-  that's actually generated from your own commit history instead of a
-  static decorative asset. Set up via the snk GitHub Action:
-  https://github.com/Platane/snk
-
+  Contribution "snake" animation — generated from your own commit history
+  via the snk GitHub Action: https://github.com/Platane/snk
   1. Add a workflow file at .github/workflows/snake.yml in this repo
   2. It regenerates the SVG below on a schedule from your contribution graph
   3. Once it runs once, this image renders automatically
 -->
 <img src="https://raw.githubusercontent.com/athishio/athishio/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="contribution snake" width="100%" />
 <img src="https://raw.githubusercontent.com/athishio/athishio/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="contribution snake" width="100%" />
-
 </div>
 
 <br>
