@@ -83,7 +83,7 @@ Deterministic context-compaction library for AI agents. Prunes obsolete and supe
 </td>
 <td width="50%" valign="top">
 
-### 🔐 [auravault-ai](https://auravault-ai.vercel.app)
+### 🔐 [auravault-ai](https://auravault-two.vercel.app)
 
 Personal finance assistant that auto-categorizes raw transactions using the Gemini API. Backed by an AWS database with secrets managed through encrypted environment variables.
 
